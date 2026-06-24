@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/VsNvim.Core/VsNvim.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/VsNvim.Core.Tests/VsNvim.Core.Tests.csproj" />
+  </Folder>
+</Solution>
